@@ -1,0 +1,3 @@
+pyodbc
+pymongo
+google-adk
